@@ -10,7 +10,7 @@
 	</div>
 
 <?php
-
+  echo "Probando index!";
   $sql = "SELECT * FROM usuarios";
   $resultado = query($sql);
 

@@ -3,7 +3,7 @@
 <?php 
 
    if(logeado()){
-   	
+   	   echo "probando login";
    	   direccionar("admin.php");
    }
 
